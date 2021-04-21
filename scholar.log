@@ -1,0 +1,208 @@
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Brian%20MacVicar
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=Sx3420cAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=Sx3420cAAAAJ&cstart=100&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=Sx3420cAAAAJ&cstart=200&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Brian%20MacVicar
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=Sx3420cAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=Sx3420cAAAAJ&cstart=100&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=Sx3420cAAAAJ&cstart=200&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Brian%20MacVicar
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=Sx3420cAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=Sx3420cAAAAJ&cstart=100&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=Sx3420cAAAAJ&cstart=200&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Jeffrey%20LeDue
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=1ffeRR4AAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Tim%20H.%20Murphy
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 2 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qJjM8hkAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qJjM8hkAAAAJ&cstart=100&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qJjM8hkAAAAJ&cstart=200&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Brian%20MacVicar
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=Sx3420cAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=Sx3420cAAAAJ&cstart=100&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=Sx3420cAAAAJ&cstart=200&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Jeffrey%20LeDue
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=1ffeRR4AAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Tim%20H.%20Murphy
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 2 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qJjM8hkAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qJjM8hkAAAAJ&cstart=100&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qJjM8hkAAAAJ&cstart=200&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Brian%20MacVicar
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=Sx3420cAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=Sx3420cAAAAJ&cstart=100&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=Sx3420cAAAAJ&cstart=200&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Jeffrey%20LeDue
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=1ffeRR4AAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Tim%20H.%20Murphy
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 2 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qJjM8hkAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qJjM8hkAAAAJ&cstart=100&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qJjM8hkAAAAJ&cstart=200&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Brian%20MacVicar
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=Sx3420cAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=Sx3420cAAAAJ&cstart=100&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=Sx3420cAAAAJ&cstart=200&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Jeffrey%20LeDue
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=1ffeRR4AAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Tim%20H.%20Murphy
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 2 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qJjM8hkAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qJjM8hkAAAAJ&cstart=100&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qJjM8hkAAAAJ&cstart=200&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Brian%20MacVicar
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=Sx3420cAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=Sx3420cAAAAJ&cstart=100&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=Sx3420cAAAAJ&cstart=200&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Jeffrey%20LeDue
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=1ffeRR4AAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Tim%20H.%20Murphy
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 2 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qJjM8hkAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qJjM8hkAAAAJ&cstart=100&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qJjM8hkAAAAJ&cstart=200&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Brian%20MacVicar
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=Sx3420cAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=Sx3420cAAAAJ&cstart=100&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=Sx3420cAAAAJ&cstart=200&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Jeffrey%20LeDue
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=1ffeRR4AAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Tim%20H.%20Murphy
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 2 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qJjM8hkAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qJjM8hkAAAAJ&cstart=100&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qJjM8hkAAAAJ&cstart=200&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Brian%20MacVicar
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=Sx3420cAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=Sx3420cAAAAJ&cstart=100&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=Sx3420cAAAAJ&cstart=200&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Jeffrey%20LeDue
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=1ffeRR4AAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Tim%20H.%20Murphy
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 2 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qJjM8hkAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qJjM8hkAAAAJ&cstart=100&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qJjM8hkAAAAJ&cstart=200&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Brian%20MacVicar
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=Sx3420cAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=Sx3420cAAAAJ&cstart=100&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=Sx3420cAAAAJ&cstart=200&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Jeffrey%20LeDue
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=1ffeRR4AAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Tim%20H.%20Muprhy
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 2 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qJjM8hkAAAAJ&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qJjM8hkAAAAJ&cstart=100&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=qJjM8hkAAAAJ&cstart=200&pagesize=100
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Brian%20MacVicar
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Brian%20MacVicar
+INFO:scholarly:Session proxy config is {}
+INFO:scholarly:Found 1 authors

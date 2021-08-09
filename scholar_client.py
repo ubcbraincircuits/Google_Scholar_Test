@@ -5,11 +5,18 @@ This scrip is the 'client' and will be the code that we will aim to have researc
 """
 
 #Edit the file name to specify where the retrieved information will save too.
-fname = 'google_scholar_data_test.csv'
+fname = 'google_scholar_data_names.csv'
 
 #Edit this array with names of the researchers in which you are looking to retreve information on
-author_names = ['Brian MacVicar', 'Jeffrey LeDue', 'Tim H. Muprhy', 'Tim Murphry']
+#author_names = ['Brian MacVicar', 'Jeffrey LeDue', 'Tim H. Muprhy', 'Tim Murphry']
 
 from google_scholarly_updated import scholar_search
+from google_scholarly_updated import pull_names
+from google_scholarly_updated import append_method
+from scholarly import scholarly
+
+author_names = pull_names(fname)
+#scholar_search(fname,'indicies')
+fname = append_method(fname)
 
 scholar_search(fname,author_names,'indicies')
